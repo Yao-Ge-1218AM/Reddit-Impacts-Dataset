@@ -3,7 +3,9 @@ A Named Entity Recognition Dataset for Analyzing Clinical and Social Effects of 
 
 ## Overview
 
-The Reddit-Impacts dataset is a specialized resource developed to facilitate the study of the clinical and social impacts of substance use disorders (SUDs) through Named Entity Recognition (NER). Derived from posts on Reddit, this dataset focuses on discussions related to the nonmedical use of substances, particularly opioids. The goal is to create a tool that aids in the automatic detection of the impacts of substance use, thereby supporting research and the development of public health strategies. This dataset was shared for #SMM4H 2024 Shared Task 4: Extraction of the clinical and social impacts of non-medical substance use from Reddit. 
+The Reddit-Impacts dataset is a specialized resource developed to facilitate the study of the clinical and social impacts of substance use disorders (SUDs) through Named Entity Recognition (NER). Derived from posts on Reddit, this dataset focuses on discussions related to the nonmedical use of substances, particularly opioids. The goal is to create a tool that aids in the automatic detection of the impacts of substance use, thereby supporting research and the development of public health strategies. 
+
+**This dataset was shared for #SMM4H 2024 Shared Task 4: Extraction of the clinical and social impacts of non-medical substance use from Reddit.** 
 
 ## Key Features
 
