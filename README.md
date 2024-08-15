@@ -19,9 +19,9 @@ The Reddit-Impacts dataset is a specialized resource developed to facilitate the
 
 ## Data Collection and Annotation
 
-**· Data Source:** The dataset was curated from 14 opioid-related subreddits, selected for their relevance and high levels of user engagement. Posts were collected using the Python Reddit API Wrapper (PRAW).
+**Data Source:** The dataset was curated from 14 opioid-related subreddits, selected for their relevance and high levels of user engagement. Posts were collected using the Python Reddit API Wrapper (PRAW).
 
-**· Annotation:** A comprehensive manual annotation process was applied to identify and classify 30 different entity types, with a particular focus on the clinical and social impacts of substance use.
+**Annotation:** A comprehensive manual annotation process was applied to identify and classify 30 different entity types, with a particular focus on the clinical and social impacts of substance use.
 
 ## Dataset Statistics
 
