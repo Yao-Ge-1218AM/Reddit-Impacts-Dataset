@@ -38,7 +38,7 @@ Entity Types: Clinical impacts and social impacts for subsetance use
 
 **GPT-3.5:** Evaluated in a one-shot setting, demonstrating higher accuracy in few-shot learning scenarios compared to traditional pre-trained models.
 
-**Llama3:** 
+**Llama3:** Ealuated its performance in recognizing clinical and social impacts within the Reddit-Impacts dataset, showcasing its potential in handling sparse and nuanced entities in social media data.
 
 ## Usage
 
