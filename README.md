@@ -25,10 +25,10 @@ The Reddit-Impacts dataset is a specialized resource developed to facilitate the
 
 ## Dataset Statistics
 
-Training Data: 843 posts
-Validation Data: 259 posts
-Testing Data: 278 posts
-Entity Types: 30, focusing on both personal information and medication-related entities.
+Training Data: 843 posts  
+Validation Data: 259 posts  
+Testing Data: 278 posts  
+Entity Types: 30, focusing on both personal information and medication-related entities.  
 
 ## Baseline Models and Performance
 
