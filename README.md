@@ -44,6 +44,5 @@ Entity Types: Clinical impacts and social impacts for subsetance use
 
 To use this dataset:
 
-Download the Dataset: Access the dataset through the google group for #SMM4H 2024 shared task 4.
-Model Training: Use the provided scripts to train NER models on the dataset.
-Evaluation: Compare the performance of different models using the evaluation metrics provided.
+**Download the Dataset:** Access the dataset through the google group for #SMM4H 2024 shared task 4.  
+**Evaluation:** Compare the performance of different models using the evaluation metrics provided.
